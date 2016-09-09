@@ -13,3 +13,4 @@ output
 *.ipr
 *.iml
 *.iws
+*.pyc
