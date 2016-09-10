@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Relaed'
 SITENAME = u"Cyanide"
 SITEURL = ''
+HIDE_SIDEBAR = True
 
 PATH = 'content'
 
